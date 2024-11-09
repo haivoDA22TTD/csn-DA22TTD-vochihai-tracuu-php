@@ -1,0 +1,50 @@
+body{
+    background: #aca7a7;
+    background-image: url(./tvu.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.menu{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background: #000;
+    overflow: hidden;
+}
+.menu li{
+    float: left;
+}
+.menu  li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    padding:  25px;
+    background: #000;
+    text-align: center;
+    display: block;
+}
+.menu li a:hover{
+    background: #e60a0a;
+}
+
+ footer{
+    width: 100%;
+    background: #000;
+    position: absolute;
+    font-size: 20px;
+    color: #fff;
+    bottom: 0;
+    text-align: center;
+ }
+ header{
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+ }
+ 
