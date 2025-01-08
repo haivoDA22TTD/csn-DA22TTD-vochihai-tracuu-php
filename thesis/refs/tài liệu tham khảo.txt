@@ -1,0 +1,4 @@
+TÀI LIỆU THAM KHẢO
+
+[1] 	W3Schools, "HTML Tutorial," [Online]. Available: https://www.w3schools.com/html/. [Accessed 15 11 2024].
+[2] 	P. H. Khang, Xây Dựng Ứng Dụng Web Bằng PHP Và Mysql, NXB Phương Đông, 2006. 
