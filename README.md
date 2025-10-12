@@ -47,7 +47,7 @@ mysql -u <user> -p <database> < schema.sql>
 ## 4. Cấu hình kết nối DB (nếu có): chỉnh trong file config.php
 ## 5. Truy cập qua trình duyệt
 ```bash
-http://localhost/csn-DA22TTD-vochihai-tracuu-php/](http://localhost/csn-DA22TTD-vochihai-tracuu-php/tracuu.php
+http://localhost/csn-DA22TTD-vochihai-tracuu-php/tracuu.php
 ```
 ## Giấy phép & Mục đích sử dụng
 🚫 Dự án này chỉ phục vụ cho mục đích học tập
