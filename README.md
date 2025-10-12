@@ -32,15 +32,15 @@
 
 ### 📦 Các bước cài đặt
 
+## 1. Clone project
 ```bash
-# 1. Clone project
 git clone https://github.com/haivoDA22TTD/csn-DA22TTD-vochihai-tracuu-php.git
 ```
-# 2. Đặt project vào thư mục web root
+## 2. Đặt project vào thư mục web root
 ```bash
 cd csn-DA22TTD-vochihai-tracuu-php
 ```
-# 3.Import CSDL
+## 3.Import CSDL
 ```bash
 mysql -u <user> -p <database> < schema.sql>
 ```
@@ -56,4 +56,4 @@ Nếu bạn muốn sử dụng lại một phần của mã nguồn, vui lòng g
 ## 📬 Liên hệ
 👨‍💻 Tác giả: Hải Võ (DA22TTD)
 📧 Email: vochihai7@gmail.com
-🌐 GitHub: haivoDA22TTD
+🌐 GitHub: @haivoDA22TTD
