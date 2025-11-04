@@ -30,6 +30,11 @@
 
 ---
 
+## Poster
+<p align="center">
+  <img width="639" height="894" alt="image" src="https://github.com/user-attachments/assets/4e0ace6c-ff77-417c-ab31-4012a9cbf6b1" />
+</>
+
 ## Hướng Dẫn Cài Đặt
 ## 1.Cài đặt XAMPP:
 
