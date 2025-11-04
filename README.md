@@ -30,30 +30,31 @@
 
 ---
 
-### 📦 Các bước cài đặt
+## Hướng Dẫn Cài Đặt
+## 1.Cài đặt XAMPP:
 
-## 1. Clone project
+Tải và cài đặt XAMPP từ trang chủ.
+Khởi động Apache và MySQL.
+## 2.Cấu hình cơ sở dữ liệu:
+
+Import file cơ sở dữ liệu .sql vào phpMyAdmin.
+## 3.Tải mã nguồn:
+
+## Clone repository:
 ```bash
 git clone https://github.com/haivoDA22TTD/csn-DA22TTD-vochihai-tracuu-php.git
 ```
-## 2. Đặt project vào thư mục web root
-```bash
-cd csn-DA22TTD-vochihai-tracuu-php
-```
-## 3.Import CSDL
-```bash
-mysql -u <user> -p <database> < schema.sql>
-```
-## 4. Cấu hình kết nối DB (nếu có): chỉnh trong file config.php
-## 5. Truy cập qua trình duyệt
-```bash
-http://localhost/csn-DA22TTD-vochihai-tracuu-php/tracuu.php
-```
-## Giấy phép & Mục đích sử dụng
-🚫 Dự án này chỉ phục vụ cho mục đích học tập
-📚 Không sử dụng cho mục đích thương mại hoặc triển khai thực tế.
-Nếu bạn muốn sử dụng lại một phần của mã nguồn, vui lòng ghi rõ nguồn gốc và liên hệ với tác giả.
-## 📬 Liên hệ
-👨‍💻 Tác giả: Hải Võ (DA22TTD)
-📧 Email: vochihai7@gmail.com
-🌐 GitHub: @haivoDA22TTD
+Di chuyển mã nguồn vào thư mục htdocs của XAMPP.
+cấu hình MySQL.
+
+## 4. Khởi chạy website:
+Truy cập vào http://localhost/src/ trên trình duyệt.
+## Đóng Góp
+Nếu bạn muốn đóng góp cho dự án, vui lòng fork repository và gửi pull request.
+
+## Liên Hệ
+**Họ và tên:** Võ Chí Hải
+**Email:** 110122068@st.tvu.edu.vn
+## Bản Quyền
+Dự án được phát triển nhằm mục đích học tập và chia sẻ kiến thức, không sử dụng cho mục đích thương mại.
+
